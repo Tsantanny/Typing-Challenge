@@ -1,1 +1,1 @@
-# Typing-Challenge
+# Typing-Challenge with Js
